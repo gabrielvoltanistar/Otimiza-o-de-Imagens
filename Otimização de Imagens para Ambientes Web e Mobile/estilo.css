@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+img {
+    max-width: 100%; /* Permite que a imagem ocupe no máximo 100% da largura do container */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.image-container {
+    margin: 20px; /* Adiciona uma margem de 20px em torno de cada imagem */
+}
